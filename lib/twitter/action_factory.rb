@@ -1,3 +1,4 @@
+require 'active_support/core_ext'
 require 'active_support/core_ext/string/inflections'
 require 'twitter/favorite'
 require 'twitter/follow'
